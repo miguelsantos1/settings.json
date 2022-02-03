@@ -1,4 +1,5 @@
 
+## Settings.json
 ```json
 {
     "editor.fontSize": 16,
@@ -34,5 +35,7 @@
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 }
+
+```
 
 
