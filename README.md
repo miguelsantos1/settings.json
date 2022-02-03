@@ -11,7 +11,7 @@
     "explorer.compactFolders": false,
     "window.zoomLevel": 1,
 
-
+    // Formatting
     "prettier.tabWidth": 2,
     "prettier.semi": false, 
     "prettier.singleQuote": true,
@@ -35,3 +35,4 @@
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 }
 ```
+
