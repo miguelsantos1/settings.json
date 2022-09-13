@@ -4,7 +4,7 @@
 
 {
   "editor.fontSize": 16,
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 12,
   "workbench.colorTheme": "Aura Soft Dark",
   "workbench.iconTheme": "material-icon-theme",
   "editor.minimap.enabled": false,
